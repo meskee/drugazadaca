@@ -1,0 +1,8 @@
+\\mac\home\documents\visual studio 2015\Projects\dz2_zad3\dz2_zad5\bin\Debug\dz2_zad5.exe.config
+\\mac\home\documents\visual studio 2015\Projects\dz2_zad3\dz2_zad5\obj\Debug\dz2_zad5.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\dz2_zad3\dz2_zad5\bin\Debug\dz2_zad5.exe
+\\mac\home\documents\visual studio 2015\Projects\dz2_zad3\dz2_zad5\bin\Debug\dz2_zad5.pdb
+\\mac\home\documents\visual studio 2015\Projects\dz2_zad3\dz2_zad5\bin\Debug\dz2_zad4.exe
+\\mac\home\documents\visual studio 2015\Projects\dz2_zad3\dz2_zad5\bin\Debug\dz2_zad4.pdb
+\\mac\home\documents\visual studio 2015\Projects\dz2_zad3\dz2_zad5\obj\Debug\dz2_zad5.exe
+\\mac\home\documents\visual studio 2015\Projects\dz2_zad3\dz2_zad5\obj\Debug\dz2_zad5.pdb
