@@ -1,0 +1,5 @@
+\\mac\home\documents\visual studio 2015\Projects\dz2_zad3\dz2_zad7\bin\Debug\dz2_zad7.exe.config
+\\mac\home\documents\visual studio 2015\Projects\dz2_zad3\dz2_zad7\bin\Debug\dz2_zad7.exe
+\\mac\home\documents\visual studio 2015\Projects\dz2_zad3\dz2_zad7\bin\Debug\dz2_zad7.pdb
+\\mac\home\documents\visual studio 2015\Projects\dz2_zad3\dz2_zad7\obj\Debug\dz2_zad7.exe
+\\mac\home\documents\visual studio 2015\Projects\dz2_zad3\dz2_zad7\obj\Debug\dz2_zad7.pdb

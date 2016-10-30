@@ -1,0 +1,2 @@
+\\mac\home\documents\visual studio 2015\Projects\dz2_zad3\dz2_zad8\bin\Debug\dz2_zad8.exe.config
+\\mac\home\documents\visual studio 2015\Projects\dz2_zad3\dz2_zad8\obj\Debug\dz2_zad8.csprojResolveAssemblyReference.cache
